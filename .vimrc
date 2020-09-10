@@ -6,6 +6,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 set laststatus=2
 set number
 set cursorline
+syntax on
 if !has('gui_running')
 	  set t_Co=256
   endif
